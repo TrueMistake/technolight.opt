@@ -1,0 +1,62 @@
+{
+	"isEdit": true,
+	"isDeleted": true,
+    "orders": [
+		{
+			"article": "86108-3K-01-BK",
+			"date": "15.10.2023",
+			"counterparty": "ООО 'ТОРГ ОПТ'",
+			"total": "10 шт",
+			"reserve": "3 шт",
+			"ttx": 55
+		},
+		{
+			"article": "86108-4K-01-WH",
+			"date": "15.10.2023",
+			"counterparty": "ООО 'ТОРГ ОПТ'",
+			"total": "10 шт",
+			"reserve": "3 шт",
+			"ttx": 33
+		},
+		{
+			"article": "86108-3K-01-BK",
+			"date": "15.10.2023",
+			"counterparty": "ООО 'ТОРГ ОПТ'",
+			"total": "10 шт",
+			"reserve": "3 шт",
+			"ttx": 55
+		},
+		{
+			"article": "86108-4K-01-WH",
+			"date": "15.10.2023",
+			"counterparty": "ООО 'ТОРГ ОПТ'",
+			"total": "10 шт",
+			"reserve": "3 шт",
+			"ttx": 33
+		},
+		{
+			"article": "86108-3K-01-BK",
+			"date": "15.10.2023",
+			"counterparty": "ООО 'ТОРГ ОПТ'",
+			"total": "10 шт",
+			"reserve": "3 шт",
+			"ttx": 55
+		},
+		{
+			"article": "86108-4K-01-WH",
+			"date": "15.10.2023",
+			"counterparty": "ООО 'ТОРГ ОПТ'",
+			"total": "10 шт",
+			"reserve": "3 шт",
+			"ttx": 33
+		},
+		{
+			"article": "86108-3K-03-BK",
+			"date": "15.10.2023",
+			"counterparty": "ООО 'ТОРГ ОПТ'",
+			"total": "10 шт",
+			"reserve": "3 шт",
+			"ttx": 1
+		}
+    ]
+}
